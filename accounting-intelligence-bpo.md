@@ -1,4 +1,6 @@
-# Integrated Accounting Intelligence — Forvis Mazars
+# Integrated Accounting Intelligence — Big Four BPO
+
+*Production AI rollout at a Big Four BPO accounting practice. Employer name withheld for contractual confidentiality.*
 
 > AI agentic workflow product (Microsoft + GPT) automating month-end close and reporting routines for the 100+ accounting professionals serving multinational BPO clients.
 
@@ -19,7 +21,7 @@ Owned the AI automation product end-to-end:
 
 ```mermaid
 flowchart LR
-    OPS[100+ Accounting Professionals<br/>Forvis Mazars] -->|workflow events| ORC[Workflow Orchestrator<br/>Power Automate + ClickUp]
+    OPS[100+ Accounting Professionals<br/>Big Four BPO] -->|workflow events| ORC[Workflow Orchestrator<br/>Power Automate + ClickUp]
     ORC --> AI[Microsoft Copilot + GPT]
     AI -->|automated outputs| OPS
     ORC --> ERP[(SAP / Client ERPs)]
@@ -33,14 +35,14 @@ flowchart LR
 - **Human-in-the-loop by default** — every AI-generated output flows back through an accountant before it lands in client deliverables. Trust through accuracy, not through autonomy. Errors in financial data have real downstream consequences (reporting, audits, compliance).
 - **Reuse existing stack** — Power Automate, ClickUp, Power BI, SAP were already licensed and operated by the team. The automations integrated into those tools rather than introducing a new system to learn.
 - **Governance first** — ClickUp tracks every automated action with audit trail; Power BI dashboards make adoption and impact visible to managers and clients.
-- **Internal academy as adoption vehicle** — founded the Forvis Internal Academy in parallel, delivering executive education in accounting, compliance, and finance leadership. Turned the automation rollout into a sustained capability instead of a one-off project.
+- **Internal academy as adoption vehicle** — founded the Internal Academy in parallel, delivering executive education in accounting, compliance, and finance leadership. Turned the automation rollout into a sustained capability instead of a one-off project.
 
 ## Outcomes
 
 - **70% reduction in manual accounting tasks** across the portfolio.
 - **40% faster reporting cycles** measured end-to-end (from period close to client deliverable).
 - Adopted by **100+ accounting professionals** across **7 manager teams**.
-- The Forvis Internal Academy extended the impact — sustained capability rather than one-off automation.
+- The Internal Academy extended the impact — sustained capability rather than one-off automation.
 
 ## Technology stack
 
@@ -51,11 +53,11 @@ flowchart LR
 | Project management | ClickUp |
 | BI / observability | Power BI |
 | ERP integration | SAP and client-side ERPs |
-| Education layer | Forvis Internal Academy |
+| Education layer | Internal Academy |
 
 ## Confidentiality
 
-Implementation details and per-client metrics are confidential under the Forvis Mazars BPO contract. The portfolio-level metrics (70% / 40% / 100+ professionals) are documented and verifiable.
+Implementation details and per-client metrics are confidential under the Big Four BPO BPO contract. The portfolio-level metrics (70% / 40% / 100+ professionals) are documented and verifiable.
 
 ---
 

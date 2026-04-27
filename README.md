@@ -13,7 +13,7 @@
 
 ---
 
-These case studies cover production work delivered at **Forvis Mazars** (BPO accounting for multinational clients), **AgroFresh** (NYSE-listed Regional Controller LATAM), **Capgemini** (LATAM IFRS Consolidation), and through **FX Studio AI** consulting engagements.
+These case studies cover production work delivered at a **Big Four BPO accounting practice** (current employer, name withheld for contractual confidentiality), **AgroFresh** (NYSE-listed Regional Controller LATAM), **Capgemini** (LATAM IFRS Consolidation), and through **FX Studio AI** consulting engagements.
 
 ## Code privacy notice
 
@@ -33,7 +33,7 @@ For public, code-complete projects, see my [profile README](https://github.com/f
 |---|---|---|
 | [IFRS 15 Revenue Recognition Platform](./ifrs-15-revenue-recognition.md) | Revenue Recognition | Full 5-step model, multi-tenant, audit-ready |
 | [IFRS 16 Lease Accounting SaaS](./ifrs-16-lease-accounting.md) | Lease Accounting | Live B2B SaaS with Stripe billing — [ifrs16-calculator.web.app](https://ifrs16-calculator.web.app) |
-| [Integrated Accounting Intelligence (Forvis Mazars)](./accounting-intelligence-forvis-mazars.md) | Finance Automation | 70% manual task reduction, 40% faster reporting cycles across multinational BPO portfolio |
+| [Integrated Accounting Intelligence (Big Four BPO)](./accounting-intelligence-bpo.md) | Finance Automation | 70% manual task reduction, 40% faster reporting cycles across multinational BPO portfolio |
 
 ### MLOps & Predictive Finance
 
